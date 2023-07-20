@@ -1,9 +1,0 @@
-local light = game:FindFirstChild("Lighting")
-local DS = light.DefaultSky
-
-DS.SkyboxBk = "rbxassetid://11555017034"
-DS.SkyboxDn = "rbxassetid://11555013415"
-DS.SkyboxLf = "rbxassetid://11555006545"
-DS.SkyboxFt = "rbxassetid://11555010145"
-DS.SkyboxRt = "rbxassetid://11555000712"
-DS.SkyboxUp = "rbxassetid://11554996247"
