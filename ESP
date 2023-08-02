@@ -1,0 +1,221 @@
+local ESP = loadstring(game:HttpGet("https://kiriot22.com/releases/ESP.lua"))()
+
+ESP.Players = false
+ESP.Boxes = false
+ESP.Names = true
+ESP:Toggle(true)
+
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Alien",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Captain Zombie",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Chucky",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Eyeless Jack",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Fishface",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Freddy Kruegar",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Ghostface",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Giant",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Granny",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Jack Torrance",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Jane",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Jason",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Leatherface",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Michael Myers",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Pennywise",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Pinhead",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Rake",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Robot",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Slenderman",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Smile Dog",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Sonic.exe",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Tails Doll",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Wendigo",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
+
+ESP:Toggle(true)
+ESP:AddObjectListener(workspace.Killers, {
+   Name = "Zombie",
+   CustomName = Name,
+   IsEnabled = "Cool",
+})
+
+ESP.Cool = true
