@@ -1,0 +1,328 @@
+local playerhead = game.Players.LocalPlayer.Character.Torso
+
+for i, v in pairs(game:GetService("Workspace").AREA51.Badges.AtomicBomb.Platform:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.Badges.UltimateSecret.Platform:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.Badges.HelpfulKillers.Platform:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.Badges.TheWayOut.Platform:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.ExecutionRoom.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.CleanerTwoRoom.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretPath1.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretPath2.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretPath3.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretPath4.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretPath5.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretPath6.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.MeetingRoom.DeadGuy.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.AlienExit.Reward:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.AlienLabRoom.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.OfficeRoom.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.PrototypMeetingRoom.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.RadioactiveArea.Floor1.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.RadioactiveArea.GiantZombieRoom.GiantZombieEngine.Close.Door2:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.RejectRoom.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.ResearchOffice.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretCleanerRoom.Table.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretCleanerRoom.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretRoom.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.SecretCleanerRoom.Table.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.YellowBedRoom.Buro.Paper:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+-- Misc
+for i, v in pairs(game:GetService("Workspace").AREA51.PlantRoom["Box of Shells"].Box:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").AREA51.Outside.Hangar.Right["Zombie Morph"].TheButton:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons.RayGun.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons.SVD.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons.MP5k.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons["M16A2/M203"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons.R870.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons["Desert Eagle"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").Weapons.M14.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
+for i, v in pairs(game:GetService("Workspace").PACKAPUNCH.GUI:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        -- we will fire the touch event
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+wait()
