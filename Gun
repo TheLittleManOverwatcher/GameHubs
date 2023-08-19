@@ -1,0 +1,149 @@
+local playerhead = game.Players.LocalPlayer.Character.Torso
+
+for i, v in pairs(game:GetService("Workspace").Weapons["AK-47"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons["AN-94"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.AWP.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons["DB Shotgun"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons["Desert Eagle"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.G36C.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.M1014.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.M14.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons["M16A2/M203"].Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.M4A1.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.MP5k.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.P90.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.R870.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.RayGun.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
+
+wait()
+
+for i, v in pairs(game:GetService("Workspace").Weapons.SVD.Hitbox:GetDescendants()) do
+    if v.Name == "TouchInterest" and v.Parent then
+        firetouchinterest(playerhead, v.Parent, 0)
+        wait(0.1)
+        firetouchinterest(playerhead, v.Parent, 1)
+    end
+end
